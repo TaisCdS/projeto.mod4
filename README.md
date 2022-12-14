@@ -14,13 +14,13 @@ imagem do projeto aqui.
 <h4> A seguir as perguntas e suas respectivas respostas: </h4>
 
 <p> ⇨ Existem outras entidades além dessas três? </p>
-<p> </p>
+<p>R: </p>
 
 <p> ⇨ Quais são os principais campos e tipos? </p>
-<p> </p>
+<p>R: </p>
 
 <p> ⇨ Como essas entidades estão relacionadas? </p>
-<p> </p>
+<p>R: </p>
 
 <br>
 <br>
