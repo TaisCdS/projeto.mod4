@@ -2,9 +2,12 @@
 
 <p> O objetivo neste projeto é modelar um banco de dados que vai armazenar seus cursos, turmas e alunos. </p>
 <br>
+<br>
+<hr>
 
+ <h4>A seguir a imagem e o pdf do projeto: </h4>
+<img src="https://github.com/TaisC468/projeto.mod4/blob/main/image%20e%20doc/banco_de_dados.png" width="680px">
 
-imagem do projeto aqui.
 <br>
 <br>
 <hr>
