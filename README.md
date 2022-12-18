@@ -22,10 +22,10 @@
 <h4> A seguir as perguntas e suas respectivas respostas: </h4>
 
 <p> ⇨ Existem outras entidades além dessas três? </p>
-<p>R:Sim, instrutor e matrculas. </p>
+<p>R:Sim, instrutor e matrícula. </p>
 
 <p> ⇨ Quais são os principais campos e tipos? </p>
-<p>R:Os campos são: curso, turma, matrícul, alunos, endereço e instrutor. Sendo os principais:curso, turma, matrícula, instrutor e alunos. Os principais tipos são: INT e VARCHAR.</p>
+<p>R: Os campos são: curso, turma, matrícula, alunos, endereço e instrutor. Sendo os principais: curso, turma, matrícula, instrutor e alunos. Os principais tipos são: INT e VARCHAR.</p>
 
 <p> ⇨ Como essas entidades estão relacionadas? </p>
 <p>R: •Curso - Turma: N:N </p>
@@ -41,4 +41,5 @@
 
 <h4> Status do projeto: </h4>
 
-<p> Em andamento. </p> 
+<p> Concluído. </p>
+ 
