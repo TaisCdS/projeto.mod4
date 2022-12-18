@@ -25,7 +25,7 @@
 <p>R:Sim, instrutor e matrculas. </p>
 
 <p> ⇨ Quais são os principais campos e tipos? </p>
-<p>R: </p>
+<p>R:Os campos são: curso, turma, matrícul, alunos, endereço e instrutor. Sendo os principais:curso, turma, matrícula, instrutor e alunos. Os principais tipos são: INT e VARCHAR.</p>
 
 <p> ⇨ Como essas entidades estão relacionadas? </p>
 <p>R: •Curso - Turma: N:N </p>
