@@ -28,7 +28,12 @@
 <p>R: </p>
 
 <p> ⇨ Como essas entidades estão relacionadas? </p>
-<p>R: </p>
+<p>R: •Curso - Turma: N:N </p>
+<p>•Turma - Matrícula: N:N</p>
+<p>•Turma - Instrutor: N:1 </p>
+<p>•Instrutor - Endereço: 1:1</p>
+<p>• Alunos - Endereço: 1:1</p>
+<p>•Matrícula - Aluno: 1:1</p>
 
 <br>
 <br>
