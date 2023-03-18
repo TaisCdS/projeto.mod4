@@ -9,12 +9,7 @@
  <br>
 <img src="https://github.com/TaisCdS/projeto.mod4/blob/main/image%20e%20doc/modelo-banco-de-dados.png" width="680px">
 <br>
-<br>
- <h4>A seguir a imagem do projeto em formato de pdf: </h4>
 
-<p>https://github.com/TaisC468/projeto.mod4/blob/main/image%20e%20doc/banco_de_dados_pdf.pdf </p>
-<br>
-<br>
 <hr>
 
 
