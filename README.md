@@ -28,7 +28,7 @@
 <p>R: Os campos são: curso, turma, matrícula, alunos, endereço e instrutor. Sendo os principais: curso, turma, matrícula, instrutor e alunos. Os principais tipos são: INT e VARCHAR.</p>
 
 <p> ⇨ Como essas entidades estão relacionadas? </p>
-<p>R: •Curso - Turma: N:N </p>
+<p>R: •Curso - Turma: 1:N </p>
 <p>•Turma - Matrícula: N:N</p>
 <p>•Turma - Instrutor: N:1 </p>
 <p>•Instrutor - Endereço: 1:1</p>
